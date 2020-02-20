@@ -1,0 +1,649 @@
+<!DOCTYPE HTML> <!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr-fr"><![endif]--> <!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="fr-fr"><![endif]--> <!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="fr-fr"><![endif]--> <!--[if gt IE 8]><html class="no-js ie9" lang="fr-fr"><![endif]--><html lang="fr-fr"><head><meta charset="utf-8" /><title>1001coques.fr, spécialiste coque telephone &amp; accessoires - 1001coques</title><meta name="description" content="1001coques, le spécialiste coque telephone et accessoires pour TOUS les mobiles vous propose + de 45 000 réf. au meilleur prix ! Livraison Offerte 48h (jours ouvrés)." /><meta name="keywords" content="coque telephone,coque smartphone,etui telephone,accessoires telephone,etui tablette,pochette tablette,coque iphone,coque samsung,selfie stick,film verre trempé,film protecteur,housse tablette,coque design,coque silicone,1001coques,1001 coques,10001coques" /><meta name="generator" content="PrestaShop" /><meta name="robots" content="index,follow" /><meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width" /><meta name="apple-mobile-web-app-capable" content="yes" /><link rel="icon" type="image/vnd.microsoft.icon" href="/img/favicon.ico?1580205955" /><link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico?1580205955" /><link rel="stylesheet" href="https://www.1001coques.fr/themes/1001coques/cache/v_412_c0977b64109c36c43c2df0fcaf202e98_all.css" type="text/css" media="all" /><link rel="stylesheet" href="https://www.1001coques.fr/themes/1001coques/css/leaflet.css" type="text/css"/><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:400,700,900" type="text/css" media="all" /> <script type="text/javascript">var CUSTOMIZE_TEXTFIELD = 1;
+var FancyboxI18nClose = 'Fermer';
+var FancyboxI18nNext = 'Suivant';
+var FancyboxI18nPrev = 'Pr&eacute;c&eacute;dent';
+var ajax_allowed = true;
+var ajax_popup = true;
+var ajaxsearch = false;
+var baseDir = 'https://www.1001coques.fr/';
+var baseUri = 'https://www.1001coques.fr/';
+var blocksearch_type = 'top';
+var comparator_max_item = 0;
+var comparedProductsIds = [];
+var contentOnly = false;
+var countdownEnabled = true;
+var currency = {"id":1,"name":"Euro","iso_code":"EUR","iso_code_num":"978","sign":"\u20ac","blank":"1","conversion_rate":"1.000000","deleted":"0","format":"2","decimals":"1","active":"1","prefix":"","suffix":" \u20ac","id_shop_list":null,"force_id":false};
+var currencyBlank = 1;
+var currencyFormat = 2;
+var currencyRate = 1;
+var currencySign = '€';
+var customizationIdMessage = 'Personnalisation';
+var delete_txt = 'Supprimer';
+var displayList = 1;
+var freeProductTranslation = 'Offert !';
+var freeShippingTranslation = 'Livraison gratuite !';
+var generated_date = 1582061946;
+var grid_size_lg = 4;
+var grid_size_lg2 = 3;
+var grid_size_md = 3;
+var grid_size_md2 = 4;
+var grid_size_ms = 2;
+var grid_size_ms2 = 6;
+var grid_size_sm = 3;
+var grid_size_sm2 = 4;
+var grid_size_xs = 1;
+var grid_size_xs2 = 12;
+var hasDeliveryAddress = false;
+var highDPI = false;
+var id_lang = 1;
+var img_dir = 'https://www.1001coques.fr/themes/1001coques/img/';
+var instantsearch = false;
+var iqit_carousel_auto = false;
+var iqit_carousel_load = 'ondemand';
+var iqit_lazy_load = true;
+var iqit_mobile_header_sticky = true;
+var iqit_mobile_header_style = 1;
+var iqit_sidebarh = false;
+var iqit_thumbs_position = true;
+var iqitcountdown_days = 'd.';
+var iqitcountdown_hours = 'Hours';
+var iqitcountdown_minutes = 'Min';
+var iqitcountdown_seconds = 'Sec';
+var iqitmegamenu_swwidth = false;
+var isGuest = 0;
+var isLogged = 0;
+var isMobile = false;
+var isPreloaderEnabled = false;
+var isRtl = false;
+var max_item = 'Vous ne pouvez pas ajouter plus de 0 produit(s) à l\'onglet de comparaison';
+var min_item = 'Veuillez sélectionner au moins un produit';
+var page_name = 'index';
+var priceDisplayMethod = 0;
+var priceDisplayPrecision = 2;
+var quickView = true;
+var removingLinkText = 'supprimer cet article du panier';
+var roundMode = 2;
+var static_token = '59f990b1d1fc5fd6ef568e9eb27a6122';
+var toBeDetermined = 'A déterminer';
+var token = '7dd17139e2b5712c763883f0e0188f47';
+var usingSecureMode = true;</script> <script type="text/javascript" src="https://www.1001coques.fr/themes/1001coques/cache/v_146_12df997632ad9e545ddb9ce49bdfd13d.js"></script> <script type="text/javascript" src="https://www.1001coques.fr/themes/1001coques/js/leaflet.js"></script> <script type="text/javascript" src="https://www.1001coques.fr/themes/1001coques/js/leaflet-providers.js"></script> <script type="text/javascript">var ASPath = '/modules/pm_advancedsearch4/';
+var ASSearchUrl = 'https://www.1001coques.fr/module/pm_advancedsearch4/advancedsearch4';
+var ASParams = {};
+var ASHash = {};
+var ASPSVersion = '1.6.1.23';
+$(document).ready(function() { asInitAsHashChange(); });</script> <script defer type="text/javascript">/* * 2007-2018 PrestaShop * * NOTICE OF LICENSE * * This source file is subject to the Academic Free License (AFL 3.0) * that is bundled with this package in the file LICENSE.txt. * It is also available through the world-wide-web at this URL: * http://opensource.org/licenses/afl-3.0.php * If you did not receive a copy of the license and are unable to * obtain it through the world-wide-web, please send an email * to license@prestashop.com so we can send you a copy immediately. * * DISCLAIMER * * Do not edit or add to this file if you wish to upgrade PrestaShop to newer * versions in the future. If you wish to customize PrestaShop for your * needs please refer to http://www.prestashop.com for more information. * * @author PrestaShop SA <contact@prestashop.com> * @copyright 2007-2018 PrestaShop SA * @license http://opensource.org/licenses/afl-3.0.php Academic Free License (AFL 3.0) * International Registered Trademark & Property of PrestaShop SA */function updateFormDatas() { var nb = $('#quantity_wanted').val(); var id = $('#idCombination').val();$('.paypal_payment_form input[name=quantity]').val(nb); $('.paypal_payment_form input[name=id_p_attr]').val(id); } $(document).ready( function() { var baseDirPP = baseDir.replace('http:', 'https:'); if($('#in_context_checkout_enabled').val() != 1) { $(document).on('click','#payment_paypal_express_checkout', function() { $('#paypal_payment_form_cart').submit(); return false; }); }var jquery_version = $.fn.jquery.split('.'); if(jquery_version[0]>=1 && jquery_version[1] >= 7) { $('body').on('submit',".paypal_payment_form", function () { updateFormDatas(); }); } else { $('.paypal_payment_form').live('submit', function () { updateFormDatas(); }); }function displayExpressCheckoutShortcut() { var id_product = $('input[name="id_product"]').val(); var id_product_attribute = $('input[name="id_product_attribute"]').val(); $.ajax({ type: "GET", url: baseDirPP+'/modules/paypal/express_checkout/ajax.php', data: { get_qty: "1", id_product: id_product, id_product_attribute: id_product_attribute }, cache: false, success: function(result) { if (result == '1') { $('#container_express_checkout').slideDown(); } else { $('#container_express_checkout').slideUp(); } return true; } }); }$('select[name^="group_"]').change(function () { setTimeout(function(){displayExpressCheckoutShortcut()}, 500); });$('.color_pick').click(function () { setTimeout(function(){displayExpressCheckoutShortcut()}, 500); });if($('body#product').length > 0) { setTimeout(function(){displayExpressCheckoutShortcut()}, 500); }var modulePath = 'modules/paypal'; var subFolder = '/integral_evolution';var fullPath = baseDirPP + modulePath + subFolder; var confirmTimer = false; if ($('form[target="hss_iframe"]').length == 0) { if ($('select[name^="group_"]').length > 0) displayExpressCheckoutShortcut(); return false; } else { checkOrder(); }function checkOrder() { if(confirmTimer == false) confirmTimer = setInterval(getOrdersCount, 1000); }});</script> <script type="text/javascript">(window.gaDevIds=window.gaDevIds||[]).push('d6YPbH');
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+				ga('create', 'UA-52456772-1', 'auto');
+				ga('require', 'ec');</script><script>window.cg_waitingJQuery = [];
+  function cg_onJQueryReady (fn) {
+    if (window.cgjQuery) {
+      fn();
+    } else {
+      window.cg_waitingJQuery.push(fn);
+    }
+  }
+
+  function cg_onJQueryLoaded () {
+    while (window.cg_waitingJQuery.length > 0) {
+      var fn = window.cg_waitingJQuery.shift();
+      setTimeout(function () {
+        fn();
+      }, 500);
+    }
+  }
+
+  function cg_onReady(callback){
+    // in case the document is already rendered
+    if (document.readyState!='loading') {
+      callback();
+    }
+    // modern browsers
+    else if (document.addEventListener) {
+      document.addEventListener('DOMContentLoaded', callback);
+    }
+    // IE <= 8
+    else {
+      document.attachEvent('onreadystatechange', function(){
+          if (document.readyState=='complete') callback();
+      });
+    }
+  }
+
+  cg_onReady(function(){
+    if (window.jQuery) {
+      window.cgjQuery = window.jQuery;
+      cg_onJQueryLoaded();
+    } else {
+      var script = document.createElement('script');
+      document.head.appendChild(script);
+      script.type = 'text/javascript';
+      script.src = "//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js";
+      script.onload = function() {
+        window.cgjQuery = jQuery.noConflict(true);
+        cg_onJQueryLoaded();
+      };
+    }
+  });</script><script>cg_onJQueryReady(function (){
+        cgjQuery(document).ready(function() {
+            if (!Array.isArray) {
+                Array.isArray = function(arg) {
+                    return Object.prototype.toString.call(arg) === '[object Array]';
+                };
+            }
+
+            var fieldNames = {
+                email: ['guest_email', 'email'],
+                homePhoneNumber: ['phone'],
+                mobilePhoneNumber: ['phone_mobile'],
+                firstname: ['firstname', 'customer_firstname'],
+                lastname: ['lastname', 'customer_lastname'],
+                countryCode: ['id_country']
+            };
+
+            var fields = {
+                    email: [],
+                    homePhoneNumber: [],
+                    mobilePhoneNumber: [],
+                    firstname: [],
+                    lastname: [],
+                    countryCode: []
+            };
+
+            var remainingLRequest = 10;
+
+            function setupTracking () {
+                for (var item in fieldNames) {
+                    if (fieldNames.hasOwnProperty(item)) {
+                        for (var i = 0; i < fieldNames[item].length; i++) {
+                            //Get by name
+                            var els = document.getElementsByName(fieldNames[item][i]);
+                            for (var j = 0; j < els.length; j++) {
+                                fields[item].push(els[j]);
+                            }
+
+                            //Get by ID
+                            var el = document.getElementById(fieldNames[item][i]);
+                            if (el &&  el.name !== fieldNames[item][i]){
+                                fields[item].push(el);
+                            }
+                        }
+                    }
+                }
+                if (fields.email.length > 0 && fields.firstname.length > 0) {
+                    for (var item in fields) {
+                        if (fields.hasOwnProperty(item)) {
+                            for (var i = 0; i < fields[item].length; i++) {
+                                cgjQuery(fields[item][i]).bind('blur', trackData);
+                            }
+
+                        }
+                    }
+                }
+            }
+
+            function collectData () {
+                var data = {};
+                for (var item in fields) {
+                    if (fields.hasOwnProperty(item)) {
+                        for (var i = 0; i < fields[item].length; i++) {
+                            data[item] =  cgjQuery(fields[item][i]).val();
+                            if (data[item] && data[item].trim){
+                                data[item].trim();
+                            }
+                            if (data[item] !== ''){
+                                break;
+                            }
+                        }
+                    }
+                }
+                return data;
+            }
+
+            function trackData () {
+                var data = collectData();
+                if (data.email && remainingLRequest > 0) {
+                    cgjQuery.ajax({
+                        url: "//www.1001coques.fr/module/cartsguru/tracking",
+                        type: "POST",
+                        data: data
+                    });
+                    remainingLRequest =- 1;
+                }
+            }
+
+            setupTracking();
+        });
+    });</script><script>var cgTrkParams = window.cgTrkParams || {
+    trackerUrl: 'https://integration.carts.guru/tracker/2670b48b-c5c1-4a31-9de3-d79a5cb253a2',
+    currency: 'EUR',
+    platform: 'prestashop',
+    siteId: '2670b48b-c5c1-4a31-9de3-d79a5cb253a2',
+    features: {
+      ci: !!'1',
+      fbm: !!'1',
+      fbAds: !!'',
+      scoring: false,
+      widgets: JSON.parse("[]")
+    },
+    fbSettings: {
+      app_id:  '117034805405908',
+      page_id: '751668591557532' // ID of the page connected to FBM Application
+    },
+    data: JSON.parse("{}")
+  },
+
+  cgtrkStart = function () {
+    CgTracker('init', cgTrkParams);
+
+    CgTracker('track', {
+      what:   'event',
+      ofType: 'visit'
+    });
+    // Track quit event
+    window.onbeforeunload = function noop () {
+      setTimeout(function () {
+        CgTracker('track', {
+          what:    'event',
+          ofType:  'quit'
+        });
+      }, 0);
+    };
+  },
+
+  // Convert price to proper format
+  parsePrice = function (price) {
+    return parseFloat(price.replace(',', '.').replace(/[^0-9\.-]+/g,""));
+  },
+
+  // Adapt cart items
+  adaptCartItems = function (items) {
+    var result = [];
+    for (var i = 0; i < items.length; i++) {
+      var item = items[i],
+      // price_wt is Presta 1.7 otherwise item.price
+      totalET = item.price_wt ? item.price_wt : parsePrice(item.price) / item.quantity,
+      // item.url is Presta 1.7
+      url = item.url ? item.url : item.link,
+      // item.cover is Presta 1.7
+      imageUrl = item.cover && item.cover.medium ? item.cover.medium.url : item.image;
+
+      result.push({
+        id: item.id.toString(),
+        totalET: totalET,
+        label: item.name,
+        quantity: item.quantity,
+        url: url,
+        imageUrl: imageUrl
+      });
+    }
+    return result;
+  }
+
+  cg_onJQueryReady(function () {
+    // Track XHR requests to get the updated cart
+    cgjQuery(document).ajaxComplete(function (event, xhr, params) {
+      if (xhr.hasOwnProperty('responseJSON') && typeof xhr.responseJSON != 'undefined' && (xhr.responseJSON.hasOwnProperty('products') || xhr.responseJSON.hasOwnProperty('cart'))) {
+        // xhr.responseJSON.cart is Presta 1.7
+        var data = xhr.responseJSON.cart ? xhr.responseJSON.cart : xhr.responseJSON,
+        totalET;
+        // Get total
+        if (data.total) {
+          totalET = parsePrice(data.total);
+        }
+        // Presta 1.7
+        if (data.totals) {
+          totalET = data.totals.total.amount;
+        }
+        // Adapt cart data
+        var updatedCart = {
+          siteId: cgTrkParams.siteId,
+          currency: cgTrkParams.currency,
+          totalET: totalET,
+          items: adaptCartItems(data.products)
+        }
+
+        // check if we have a cart id
+        var trackerData = CgTracker('getData'),
+          currentCart = trackerData && trackerData.cart;
+
+        if (currentCart && currentCart.cartId && currentCart.recoverUrl) {
+          // Add missing properties
+          updatedCart.cartId = currentCart.cartId.toString();
+          updatedCart.recoverUrl = currentCart.recoverUrl;
+          // Update tracker data
+          CgTracker('updateData', {
+            cart: updatedCart
+          });
+
+          return CgTracker('fireStoredEvents');
+        }
+        // Get the cartId and recoverUrl from backend
+        cgjQuery.ajax({
+            url: '//www.1001coques.fr/module/cartsguru/cartinfo'
+        }).done(function (data) {
+          if (data && data.cartId && data.recoverUrl) {
+            updatedCart.cartId = data.cartId.toString();
+            updatedCart.recoverUrl = data.recoverUrl;
+            // Update tracker data
+            CgTracker('updateData', {
+              cart: updatedCart
+            });
+            CgTracker('fireStoredEvents');
+          }
+        });
+      }
+    });
+  });
+
+  (function(d, s, id) {
+    var cgs, cgt = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    cgs = d.createElement(s); cgs.id = id;
+    cgs.src = 'https://integration.carts.guru/tracker/2670b48b-c5c1-4a31-9de3-d79a5cb253a2/dist/tracker.build.min.js';
+    cgt.parentNode.insertBefore(cgs, cgt);
+    cgs.onload = cgtrkStart;
+  }(document, 'script', 'cg-trk'));
+
+  (function(d, s, id) {
+    var cgs, cgt = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    cgs = d.createElement(s); cgs.id = id;
+    cgs.src = 'https://integration.carts.guru/tracker/2670b48b-c5c1-4a31-9de3-d79a5cb253a2/dist/platform/' + cgTrkParams.platform + '.min.js';
+    cgt.parentNode.insertBefore(cgs, cgt);
+  }(document, 'script', 'cg-evt'));</script><script type="text/javascript">// instantiate object
+	var fbpsc = fbpsc || new FpcModule('fbpsc');
+
+	// get errors translation
+		fbpsc.msgs = {"id":"Vous n'avez pas renseign\u00e9 votre application ID","secret":"Vous n'avez pas renseign\u00e9 votre application Secret","htmlElement":"Vous n'avez pas renseign\u00e9 l'\u00e9l\u00e9ment HTML ","positionName":"Vous n'avez pas renseign\u00e9 le nom","padding":"Vous n'avez pas renseign\u00e9 le padding ou ce n'est pas un chiffre entier","margin":"Vous n'avez pas renseign\u00e9 la marge ou ce n'est pas un chiffre entier","callback":"Vous n'avez pas renseign\u00e9 votre application callback","scope":"Vous n'avez pas renseign\u00e9 les permissions de l'application","developerKey":"Vous n'avez pas renseign\u00e9 la cl\u00e9 d\u00e9veloppeur","socialEmail":"Vous n'avez pas renseign\u00e9 votre e-mail","delete":"Supprimer","prefixCode":"Vous devez d\u00e9finir le pr\u00e9fixe du code","voucherAmount":"Vous devez d\u00e9finir le montant de la r\u00e9duction","voucherPercent":"Vous devez d\u00e9finir le pourcentage de la r\u00e9duction","apiType":"Vous devez d\u00e9finir une m\u00e9thode de connexion","defaultText":"Vous devez remplir le texte par d\u00e9faut"};
+	
+	
+	// set URL of admin img
+	fbpsc.sImgUrl = '/modules/facebookpsconnect/views/img/';
+
+	// set URL of admin img
+	fbpsc.sAdminImgUrl = '/img/admin/';
+
+	// set URL of module's web service
+		fbpsc.sWebService = '/modules/facebookpsconnect/ws-facebookpsconnect.php';</script><script type="text/javascript">var recording_error_msg = 'Vous devez accepter les conditions générales sur la protection des données.';
+	var gdpr_ajax_url = 'https://www.1001coques.fr/module/gdpr/default';</script><style>.lgcookieslaw_banner {
+		display: table;
+		width:100%;
+		position:fixed;
+		left:0;
+		background: #000000;
+		border-color: #000000;
+		border-left: 1px solid #000000;
+		border-radius: 3px 3px 3px 3px;
+		border-right: 1px solid #000000;
+		color: #FFFFFF !important;
+		z-index: 99999;
+		border-style: solid;
+		border-width: 1px;
+		margin: 0;
+		outline: medium none;
+		text-align: center;
+		vertical-align: middle;
+		-webkit-box-shadow: 0px 1px 5px 0px #000000;
+		-moz-box-shadow:    0px 1px 5px 0px #000000;
+		box-shadow:         0px 1px 5px 0px #000000;
+		font-size: 12px;
+	
+		top:0;;
+		opacity:0.8;
+	
+	}
+
+	.lgcookieslaw_banner > form
+	{
+		position:relative;
+	}
+
+	.lgcookieslaw_banner span.lgcookieslaw_btn
+	{
+		border-color: #4cff78 !important;
+		background: #4cff78 !important;
+		color: #FFFFFF !important;
+		text-align: center;
+		margin: 5px 0px 5px 0px;
+		padding: 5px 7px;
+		display: inline-block;
+		border: 0;
+		font-weight: bold;
+		height: 26px;
+		line-height: 16px;
+		width: auto;
+		font-size: 12px;
+		cursor: pointer;
+	}
+
+	.lgcookieslaw_banner span:hover.lgcookieslaw_btn
+	{
+		opacity: 0.85;
+		filter: alpha(opacity=85);
+	}
+
+	.lgcookieslaw_banner a.lgcookieslaw_btn
+	{
+		border-color: #3079ff;
+		background: #3079ff;
+		color: #FFFFFF !important;
+		margin: 5px 0px 5px 0px;
+		text-align: center;
+		padding: 5px 7px;
+		display: inline-block;
+		border: 0;
+		font-weight: bold;
+		height: 26px;
+		line-height: 16px;
+		width: auto;
+		font-size: 12px;
+	}
+
+	@media (max-width: 768px) {
+		.lgcookieslaw_banner span.lgcookieslaw_btn,
+		.lgcookieslaw_banner a.lgcookieslaw_btn {
+			height: auto;
+		}
+	}
+
+	.lgcookieslaw_banner a:hover.lgcookieslaw_btn
+	{
+		opacity: 0.85;
+		filter: alpha(opacity=85);
+	}
+
+	.lgcookieslaw_close_banner_btn
+	{
+		cursor:pointer;
+		height:21px;
+		max-width:21px;
+		width:21px;
+	}
+
+	.lgcookieslaw_container {
+		display:table;
+		margin: 0 auto;
+	}
+
+	.lgcookieslaw_button_container {
+		display:table-cell;
+		padding:0px;
+		vertical-align: middle;
+	}
+
+	.lgcookieslaw_button_container div{
+		display:table-cell;
+		padding: 0px 5px 0px 0px;
+		vertical-align: middle;
+	}
+
+	.lgcookieslaw_message {
+		display:table-cell;
+		font-size: 12px;
+		padding:2px 25px 5px 5px;
+		vertical-align: middle;
+	}
+
+	.lgcookieslaw_message p{
+		margin: 0;
+	}
+
+	.lgcookieslaw_btn-close {
+		position:absolute;
+		right:5px;
+		top:5px;
+	}</style> <script type="text/javascript">function closeinfo()
+    {
+        var obj = document.getElementById("lgcookieslaw_banner");
+        obj.style.display = 'none';
+        setCookie("__lglaw", 1, 31536000);
+    }
+
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays*1000));
+        var expires = "expires="+ d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+
+    function ready(fn) {
+        if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading"){
+            fn();
+        } else {
+            document.addEventListener('DOMContentLoaded', fn);
+        }
+    }
+
+    ready(function(){
+        var banner = document.getElementById("lgcookieslaw_accept");
+        if( banner != null ) {
+            banner.addEventListener("click", function () {
+                closeinfo();
+            });
+        }
+    });</script><style type="text/css"></style><!--[if lt IE 9]> <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script> <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script> <![endif]--> <!--[if lte IE 9]> <script src="https://www.1001coques.fr/themes/1001coques/js/flexibility.js"></script> <![endif]--><meta property="og:title" content="1001coques.fr, sp&eacute;cialiste coque telephone &amp; accessoires - 1001coques"/><meta property="og:url" content="http://www.1001coques.fr/"/><meta property="og:site_name" content="1001coques"/><meta property="og:description" content="1001coques, le spécialiste coque telephone et accessoires pour TOUS les mobiles vous propose + de 45 000 réf. au meilleur prix ! Livraison Offerte 48h (jours ouvrés)."><meta property="og:type" content="website"><meta property="og:image" content="https://www.1001coques.fr/img/1001coques-logo-1559557191.jpg" /></head><body id="index" class="index hide-left-column hide-right-column lang_fr "><div id="page"><div class="header-container"> <header id="header"><div class="banner"></div><div class="nav"> <nav><div class="shop-phone-container clearfix"> <span class="shop-phone"> <i class="icone-call"></i> 09 54 37 44 88 </span> <span class="shop-phone"> Contactez-nous : contact@1001coques.fr </span></div> </nav></div><div><div class="container-header"><div id="desktop-header" class="desktop-header"><div class="header_container"><div id="header_logo"> <a href="https://www.1001coques.fr/" title="1001coques"> <img class="logo img-responsive replace-2xlogo" src="https://www.1001coques.fr/img/1001coques-logo-1559557191.jpg" width="126" height="73" alt="1001coques" /> </a></div><div class="header_hook_top clearfix"><div id="search_block_top"><div class="search-nav"> <i class="icone-search"></i></div><div class="search-block clearfix"><form id="searchbox" method="get" action="https://www.1001coques.fr/recherche" > <input type="hidden" name="controller" value="search" /> <input type="hidden" name="orderby" value="position" /> <input type="hidden" name="orderway" value="desc" /> <input class="search_query form-control" type="text" id="search_query_top" name="search_query" placeholder="Rechercher" value="" /> <button type="submit" name="submit_search" class="btn btn-default button-search"> <span>Rechercher</span><i class="icone-search"></i> </button></form></div></div><div class="header_user_info"> <a class="login" href="https://www.1001coques.fr/mon-compte" rel="nofollow" title="Identifiez-vous"><i class="icone-profil"></i></a></div><div class="header_user_info"> <a href="https://www.1001coques.fr/nous-contacter" rel="nofollow" title="Contactez-nous"><i class="icone-message"></i></a></div><div id="shopping_cart_container" class="clearfix"><div class="shopping_cart"> <a href="https://www.1001coques.fr/commande-rapide" title="Voir mon panier" rel="nofollow"> <i class="icone-panier"></i> <span class="ajax_cart_quantity unvisible">0</span> </a><div class="cart_block block exclusive"><div class="block_content"><div class="cart_block_list"><p class="cart_block_no_products"> Aucun produit</p><div class="cart-prices"><div class="cart-prices-line first-line"> <span class="price cart_block_shipping_cost ajax_cart_shipping_cost unvisible"> A déterminer </span> <span class="unvisible"> Livraison </span></div><div class="cart-prices-line last-line"> <span class="price cart_block_total ajax_block_cart_total">0,00 €</span> <span>Total</span></div></div><p class="cart-buttons"> <a id="button_order_cart" class="btn btn-default button button-medium" href="https://www.1001coques.fr/commande-rapide" title="Commander" rel="nofollow"> <span> Commander<i class="icon-chevron-right right"></i> </span> </a></p></div></div></div></div></div><div id="layer_cart"><div class="layer_cart_title col-xs-12"><div class="layer_cart_h5"> <i class="icon-check"></i> Produit ajouté au panier</div></div><div class="clearfix" ><div class="layer_cart_product col-xs-12 col-md-6"> <span class="cross" title="Fermer la fenêtre"></span><div class="product-image-container layer_cart_img"></div><div class="layer_cart_product_info"> <span id="layer_cart_product_title" class="product-name"></span> <span id="layer_cart_product_attributes"></span><div> Quantité <span id="layer_cart_product_quantity"></span></div><div> <strong>Total <span id="layer_cart_product_price"></span></strong></div></div></div><div class="layer_cart_cart col-xs-12 col-md-6"><div class="overall_cart_title"> <span class="ajax_cart_product_txt_s unvisible"> Il y a <span class="ajax_cart_quantity">0</span> produits dans votre panier </span> <span class="ajax_cart_product_txt "> Il y a un produit dans votre panier </span></div><div class="layer_cart_row"> Total des produits <span class="ajax_block_products_total"> </span></div><div class="layer_cart_row ajax_shipping-container"> <strong class="dark unvisible"> Panier total&nbsp; </strong> <span class="ajax_cart_shipping_cost unvisible"> A déterminer </span></div><div class="layer_cart_row"> <strong> Total <span class="ajax_block_cart_total"> </span> </strong></div></div></div><div class="button-container clearfix"><div class="pull-right"> <span class="continue btn btn-default" title="Continuer mes achats"> <span> <i class="icon-chevron-left left"></i> Continuer mes achats </span> </span> <a class="btn btn-default button button-medium" href="https://www.1001coques.fr/commande-rapide" title="Procéder au paiement" rel="nofollow"> <span> Procéder au paiement <i class="icon-chevron-right right"></i> </span> </a></div></div><div class="crossseling"></div></div><div class="layer_cart_overlay"></div><div class="bootstrap"></div><div id="lgcookieslaw_banner" class="lgcookieslaw_banner"><div class="lgcookieslaw_container"><div class="lgcookieslaw_message"><p>Notre boutique utilise des cookies pour améliorer l'expérience utilisateur et nous vous recommandons d'accepter leur utilisation pour profiter pleinement de votre navigation.</p></div><div class="lgcookieslaw_button_container"><div> <span id="lgcookieslaw_accept" class="lgcookieslaw_btn">J'accepte</span></div><div> <a id="lgcookieslaw_info" class="lgcookieslaw_btn" target="_blank" href="https://www.1001coques.fr/content/3-cgv" > Plus d'informations </a></div></div></div><div id="lgcookieslaw_close" class="lgcookieslaw_btn-close"> <img src="/modules/lgcookieslaw/views/img/close.png" alt="close" class="lgcookieslaw_close_banner_btn" onclick="closeinfo();"></div></div></div><div class="iqitmegamenu-wrapper clearfix"><div id="iqitmegamenu-horizontal" class="iqitmegamenu " role="navigation"><div> <nav id="cbp-hrmenu" class="cbp-hrmenu cbp-horizontal cbp-hrsub-narrow cbp-fade-slide-bottom cbp-arrowed "><ul><li class="cbp-hrmenu-tab cbp-hrmenu-tab-1 "> <a href="https://www.1001coques.fr/" title="Accueil" > <span class="cbp-tab-title"> Accueil </span> </a></li><li class="cbp-hrmenu-tab cbp-hrmenu-tab-2 "> <a href="/promotions" title="Promos" > <span class="cbp-tab-title"> Promos </span> </a></li><li class="cbp-hrmenu-tab cbp-hrmenu-tab-3 "> <a href="https://www.1001coques.fr/14-coque-telephone" title="Coque telephone pour tous mobiles - 1001coques.fr" > <span class="cbp-tab-title"> Coque téléphone <i class="icone-arrow-down cbp-submenu-aindicator"></i> </span> <span class="cbp-triangle-container"> <span class="cbp-triangle-top"></span> <span class="cbp-triangle-top-back"></span> </span> </a><div class="cbp-hrsub col-xs-2"><div class="cbp-hrsub-inner"><div class="row menu_row menu-element first_rows menu-element-id-7"><div class="col-xs-12 cbp-menu-column cbp-menu-element menu-element-id-8 " ><div class="cbp-menu-column-inner"><div class="row cbp-categories-row"><div class="col-xs-12"> <a href="https://www.1001coques.fr/419-coque-silicone-design" title="Coque design silicone tpu gel pour tous mobiles - 1001coques.fr" class="cbp-column-title cbp-category-title">Coque Design</a></div></div></div></div><div class="col-xs-12 cbp-menu-column cbp-menu-element menu-element-id-9 " ><div class="cbp-menu-column-inner"><div class="row cbp-categories-row"><div class="col-xs-12"> <a href="https://www.1001coques.fr/420-coque-design-artistes" title="Coque design : coques originales d'Artistes pour votre mobile" class="cbp-column-title cbp-category-title">Coque Design Artistes</a></div></div></div></div><div class="col-xs-12 cbp-menu-column cbp-menu-element menu-element-id-20 " ><div class="cbp-menu-column-inner"><div class="row cbp-categories-row"><div class="col-xs-12"> <a href="https://www.1001coques.fr/4165-coque-silicone-couleur" title="Coque silicone tpu gel pour tous mobiles - 1001coques.fr" class="cbp-column-title cbp-category-title">Coque Silicone Couleur</a></div></div></div></div><div class="col-xs-12 cbp-menu-column cbp-menu-element menu-element-id-14 " ><div class="cbp-menu-column-inner"><div class="row cbp-categories-row"><div class="col-xs-12"> <a href="https://www.1001coques.fr/3020-coque-protection-integrale-360" title="Coque silicone tpu gel 360 protection intégrale pour tous mobiles - 1001coques.fr" class="cbp-column-title cbp-category-title">Coque protection intégrale 360°</a></div></div></div></div><div class="col-xs-12 cbp-menu-column cbp-menu-element menu-element-id-19 " ><div class="cbp-menu-column-inner"><div class="row cbp-categories-row"><div class="col-xs-12"> <a href="https://www.1001coques.fr/3589-coque-personnalisable-football" title="Coques sportives maillot de foot personnalisée - 1001 coques France" class="cbp-column-title cbp-category-title">Coque personnalisable Football</a><ul class="cbp-links cbp-category-tree"><li ><div class="cbp-category-link-w"> <a href="https://www.1001coques.fr/4009-coques-personnalisee-maillot-foot-france-espagne-italie-belgique-portugal-turquie-tunisie-maroc">Equipes Nationales</a></div></li><li ><div class="cbp-category-link-w"> <a href="https://www.1001coques.fr/4010-coques-personnalisee-equipes-de-france-marseille-psg-ligue-1-2">France</a></div></li><li ><div class="cbp-category-link-w"> <a href="https://www.1001coques.fr/4011-coques-personnalisee-equipe-espagne-real-madrid-barcelone">Espagne</a></div></li><li ><div class="cbp-category-link-w"> <a href="https://www.1001coques.fr/4012-coques-personnalisee-equipe-italie-juventus-rome-naples-milan">Italie</a></div></li><li ><div class="cbp-category-link-w"> <a href="https://www.1001coques.fr/4013-coques-personnalisee-equipe-allemagne-bayern-munich-dortmund">Allemagne</a></div></li></ul></div></div></div></div><div class="col-xs-12 cbp-menu-column cbp-menu-element menu-element-id-10 " ><div class="cbp-menu-column-inner"><div class="row cbp-categories-row"><div class="col-xs-12"> <a href="https://www.1001coques.fr/421-coque-rigide-telephone" title="Coque rigide Telephone à prix attractif - 1001coques.fr" class="cbp-column-title cbp-category-title">Coque Rigide</a></div></div></div></div></div></div></div></li><li class="cbp-hrmenu-tab cbp-hrmenu-tab-4 "> <a href="https://www.1001coques.fr/15-etui-telephone-housse" title="Etui telephone et Housse telephone chez 1001coques.fr" > <span class="cbp-tab-title"> Etui téléphone </span> </a></li><li class="cbp-hrmenu-tab cbp-hrmenu-tab-9 "> <a href="https://www.1001coques.fr/17-etui-housse-pochette-tablette" title="Etui et Pochette Tablette, Housses smart case - 1001coques.fr" > <span class="cbp-tab-title"> Tablettes </span> </a></li><li class="cbp-hrmenu-tab cbp-hrmenu-tab-5 "> <a href="https://www.1001coques.fr/16-accessoires" title="Accessoires pour smartphone à petit prix - 1001coques.fr" > <span class="cbp-tab-title"> Accessoires <i class="icone-arrow-down cbp-submenu-aindicator"></i> </span> <span class="cbp-triangle-container"> <span class="cbp-triangle-top"></span> <span class="cbp-triangle-top-back"></span> </span> </a><div class="cbp-hrsub col-xs-2"><div class="cbp-hrsub-inner"><div class="row menu_row menu-element first_rows menu-element-id-1"><div class="col-xs-12 cbp-menu-column cbp-menu-element menu-element-id-2 " ><div class="cbp-menu-column-inner"><div class="row cbp-categories-row"><div class="col-xs-12"> <a href="https://www.1001coques.fr/422-film-verre-trempe-protecteur-ecran" title="Film verre trempé haute résistance pour d'écran - 1001coques.fr" class="cbp-column-title cbp-category-title">Film verre trempé</a></div><div class="col-xs-12"> <a href="https://www.1001coques.fr/423-accessoires-telephone" title="Accessoires telephone petit prix pour équiper votre mobile" class="cbp-column-title cbp-category-title">Câbles / Chargeurs</a></div><div class="col-xs-12"> <a href="https://www.1001coques.fr/4178-ecouteurs-casques-sans-fils" title="Ecouteurs / Casques sans fils Bluetooth" class="cbp-column-title cbp-category-title">Ecouteurs / Casques sans fils</a></div></div></div></div></div></div></div></li><li class="cbp-hrmenu-tab cbp-hrmenu-tab-7 "> <a href="https://www.1001coques.fr/18-personnalisez-votre-coque" title="Coque personnalisée pour tous les modèles de smartphones" > <span class="cbp-tab-title"> Je personnalise </span> </a></li><li class="cbp-hrmenu-tab cbp-hrmenu-tab-10 "> <a href="https://www.1001coques.fr/content/4-1001-coques-telephone" title="1001 coques" > <span class="cbp-tab-title"> 1001 Coques </span> </a></li></ul> </nav></div><div id="iqitmegamenu-mobile"><div id="iqitmegamenu-shower" class="clearfix"><div class="container"><div class="iqitmegamenu-icon"><i class="icon-reorder"></i></div> <span>Menu</span></div></div><div class="cbp-mobilesubmenu"><div class="container"><ul id="iqitmegamenu-accordion" class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left"><li id="cbp-close-mobile"><i class="icon-chevron-left"></i> Masquer</li><li><a href="https://www.1001coques.fr/" title="Accueil">Accueil</a></li><li><a href="/promotions" onclick="return !window.open(this.href);" title="Promos">Promos</a></li><li><a href="https://www.1001coques.fr/14-coque-telephone" title="Coque Téléphone">Coque Téléphone</a></li><li><a href="https://www.1001coques.fr/15-etui-telephone-housse" title="Etui Téléphone">Etui Téléphone</a></li><li><a href="https://www.1001coques.fr/16-accessoires" title="Accessoires Téléphone">Accessoires Téléphone</a></li><li><a href="https://www.1001coques.fr/18-personnalisez-votre-coque" title="Personnalisez votre coque">Personnalisez votre coque</a></li><li><a href="https://www.1001coques.fr/content/10-espace-pro-grossiste-accessoire-telephone" title="Espace pro">Espace pro</a></li><li><a href="https://www.1001coques.fr/content/4-1001-coques-telephone" title="1001 coques">1001 coques</a></li></ul></div></div><div id="cbp-spmenu-overlay" class="cbp-spmenu-overlay"></div></div></div></div></div></div></div></div><div class="fw-pseudo-wrapper"><div class="desktop-header"></div></div> </header><div class="fw-pseudo-wrapper fw-pseudo-wrapper-slider"></div></div><div class="clearfix pre-columns-container"><div class="container"><div class="pre-columns-row"><div class="col-xs-12 col-md-9"><div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="float:left;background-color:#E9E9E9;padding:0px;margin-left:0px;margin-right:0px;margin-top:0px;margin-bottom:0px;max-height:450px;"><div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;max-height:450px;height:450px;"><ul><li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="https://www.1001coques.fr/4178-ecouteurs-casques-sans-fils" data-saveperformance="off" > <img src="https://www.1001coques.fr/modules/revsliderprestashop/uploads/2875404-1575992528.jpg" alt="2875404-1575992528" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"></li><li data-transition="random" data-slotamount="7" data-masterspeed="300" data-link="https://www.1001coques.fr/4165-coque-silicone-couleur#s[8][]:&s[9][]:&s[6][]:&s[7][]:2787&s[3][]:1209&ash[3][]:1209&sid:25&h:home&ics:4165&abs:YToxOntpOjA7aToxMjA5O30:" data-saveperformance="off" > <img src="https://www.1001coques.fr/modules/revsliderprestashop/uploads/8655566-1575043758.jpg" alt="8655566-1575043758" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"></li><li data-transition="random" data-slotamount="7" data-masterspeed="500" data-link="https://www.1001coques.fr/3589-coque-maillot-de-foot" data-saveperformance="off" > <img src="https://www.1001coques.fr/modules/revsliderprestashop/uploads/9688188-1559923941.jpg" alt="9688188-1559923941" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat"></li></ul><div class="tp-bannertimer"></div></div></div><style scoped></style> <script type="text/javascript">var setREVStartSize = function() {
+						var	tpopt = new Object();
+							tpopt.startwidth = 960;
+							tpopt.startheight = 450;
+							tpopt.container = jQuery('#rev_slider_1_1');
+							tpopt.fullScreen = "off";
+							tpopt.forceFullWidth="off";
+
+						tpopt.container.closest(".rev_slider_wrapper").css({height:tpopt.container.height()});tpopt.width=parseInt(tpopt.container.width(),0);tpopt.height=parseInt(tpopt.container.height(),0);tpopt.bw=tpopt.width/tpopt.startwidth;tpopt.bh=tpopt.height/tpopt.startheight;if(tpopt.bh>tpopt.bw)tpopt.bh=tpopt.bw;if(tpopt.bh<tpopt.bw)tpopt.bw=tpopt.bh;if(tpopt.bw<tpopt.bh)tpopt.bh=tpopt.bw;if(tpopt.bh>1){tpopt.bw=1;tpopt.bh=1}if(tpopt.bw>1){tpopt.bw=1;tpopt.bh=1}tpopt.height=Math.round(tpopt.startheight*(tpopt.width/tpopt.startwidth));if(tpopt.height>tpopt.startheight&&tpopt.autoHeight!="on")tpopt.height=tpopt.startheight;if(tpopt.fullScreen=="on"){tpopt.height=tpopt.bw*tpopt.startheight;var cow=tpopt.container.parent().width();var coh=jQuery(window).height();if(tpopt.fullScreenOffsetContainer!=undefined){try{var offcontainers=tpopt.fullScreenOffsetContainer.split(",");jQuery.each(offcontainers,function(e,t){coh=coh-jQuery(t).outerHeight(true);if(coh<tpopt.minFullScreenHeight)coh=tpopt.minFullScreenHeight})}catch(e){}}tpopt.container.parent().height(coh);tpopt.container.height(coh);tpopt.container.closest(".rev_slider_wrapper").height(coh);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(coh);tpopt.container.css({height:"100%"});tpopt.height=coh;}else{tpopt.container.height(tpopt.height);tpopt.container.closest(".rev_slider_wrapper").height(tpopt.height);tpopt.container.closest(".forcefullwidth_wrapper_tp_banner").find(".tp-fullwidth-forcer").height(tpopt.height);}
+					};
+
+			
+					setREVStartSize();
+
+
+					var tpj=jQuery;
+					
+					var revapi1;
+
+					tpj(document).ready(function() {
+
+					if(tpj('#rev_slider_1_1').revolution == undefined){
+						revslider_showDoubleJqueryError('#rev_slider_1_1');
+					}else{
+					   revapi1 = tpj('#rev_slider_1_1').show().revolution(
+						{	
+														dottedOverlay:"none",
+							delay:9000,
+							startwidth:960,
+							startheight:450,
+							hideThumbs:0,
+
+							thumbWidth:100,
+							thumbHeight:50,
+							thumbAmount:3,
+							
+														
+							simplifyAll:"off",
+
+							navigationType:"bullet",
+							navigationArrows:"none",
+							navigationStyle:"square-old",
+
+							touchenabled:"on",
+							onHoverStop:"on",
+							nextSlideOnWindowFocus:"off",
+
+							swipe_threshold: 75,
+							swipe_min_touches: 1,
+							drag_block_vertical: false,
+							
+														
+														
+							keyboardNavigation:"off",
+
+							navigationHAlign:"right",
+							navigationVAlign:"bottom",
+							navigationHOffset:10,
+							navigationVOffset:10,
+
+							soloArrowLeftHalign:"left",
+							soloArrowLeftValign:"center",
+							soloArrowLeftHOffset:20,
+							soloArrowLeftVOffset:0,
+
+							soloArrowRightHalign:"right",
+							soloArrowRightValign:"center",
+							soloArrowRightHOffset:20,
+							soloArrowRightVOffset:0,
+
+							shadow:0,
+							fullWidth:"on",
+							fullScreen:"off",
+
+														spinner:"spinner0",
+														
+							stopLoop:"off",
+							stopAfterLoops:-1,
+							stopAtSlide:-1,
+
+							shuffle:"off",
+
+							autoHeight:"off",
+							forceFullWidth:"off",
+							
+							
+							
+							hideThumbsOnMobile:"off",
+							hideNavDelayOnMobile:1500,
+							hideBulletsOnMobile:"off",
+							hideArrowsOnMobile:"off",
+							hideThumbsUnderResolution:0,
+
+														hideSliderAtLimit:0,
+							hideCaptionAtLimit:0,
+							hideAllCaptionAtLilmit:0,
+							startWithSlide:0						});
+
+
+
+											}
+					});</script> </div><div class="col-xs-12 col-md-3"><div id="PM_ASBlockOutput_3" class="PM_ASBlockOutput PM_ASBlockOutputHorizontal"><div id="PM_ASBlock_3"><div class="block_content"><div class="PM_ASForm_Horizontal_Title"> <img src="/themes/1001coques/img/fond_recherche.svg" srcset="/themes/1001coques/img/fond_recherche.svg" alt=""><div class="PM_ASForm_Horizontal_Title_float"> <img src="/themes/1001coques/img/rechercher.png" alt=""><p>Recherchez votre t&eacute;l&eacute;phone</p></div></div><form action="https://www.1001coques.fr/module/pm_advancedsearch4/advancedsearch4" method="GET" id="PM_ASForm_3" class="PM_ASForm"><div id="PM_ASCriterionsGroup_3_7" class="PM_ASCriterionsGroup"><div id="PM_ASCriterionsOutput_3_7" class="PM_ASCriterionsOutput"><div id="PM_ASCriterions_3_7" class="PM_ASCriterions"><div class="PM_ASCriterionsGroupOuter"><div class="PM_ASCriterionStepEnable"> <select data-id-criterion-group="7" name="as4c[7][]" id="PM_ASCriterionGroupSelect_3_7" class="PM_ASCriterionGroupSelect"><option value="">MARQUE</option><option value="4357" >Acer</option><option value="4358" >Alcatel</option><option value="4359" >Apple</option><option value="4361" >Archos</option><option value="4362" >Asus</option><option value="4419" >HTC</option><option value="4420" >Huawei</option><option value="4422" >LG</option><option value="4423" >Motorola</option><option value="4424" >Nokia</option><option value="4425" >OnePlus</option><option value="5196" >Oppo</option><option value="4426" >Orange</option><option value="4428" >Samsung</option><option value="4429" >Sony</option><option value="4437" >Wiko</option><option value="4467" >Xiaomi</option><option value="4479" >ZTE</option> </select></div></div></div><div class="clear"></div></div></div><div id="PM_ASCriterionsGroup_3_8" class="PM_ASCriterionsGroup"><div id="PM_ASCriterionsOutput_3_8" class="PM_ASCriterionsOutput"><div id="PM_ASCriterions_3_8" class="PM_ASCriterions"><div class="PM_ASCriterionsGroupOuter"><div class="PM_ASCriterionStepEnable"> <select data-id-criterion-group="8" name="as4c[8][]" id="PM_ASCriterionGroupSelect_3_8" class="PM_ASCriterionGroupSelect"><option value="">MODELE</option><option value="4364" >1</option><option value="4365" >10</option><option value="4366" >50c Neon</option><option value="4964" >7</option><option value="4965" >7 Pro</option><option value="4367" >A3</option><option value="4368" >A3 XL</option><option value="4369" >A5 LED</option><option value="4370" >A7</option><option value="4371" >Ascend G6</option><option value="4372" >Ascend G610</option><option value="4373" >Ascend G620S</option><option value="4374" >Ascend G630</option><option value="4375" >Ascend G7</option><option value="4376" >Ascend Y330</option><option value="4377" >Ascend Y530</option><option value="4378" >Ascend Y550</option><option value="4379" >Barry</option><option value="4380" >Bello II</option><option value="4381" >Birdy</option><option value="4382" >Blade Apex 3</option><option value="4383" >Blade C2</option><option value="4384" >Blade C2 C3</option><option value="4385" >Blade S6</option><option value="4386" >Bloom</option><option value="4387" >C&acirc;bles / Chargeurs</option><option value="4388" >Cink Five</option><option value="4389" >Cink Peax / Cink Peax 2</option><option value="4390" >Cink Plus</option><option value="4391" >Cink Slim</option><option value="5106" >Coque Silicone Couleur</option><option value="4430" >Darkfull</option><option value="4431" >Darkmoon</option><option value="4432" >Darknight</option><option value="4433" >Darkside</option><option value="4434" >Desire 310</option><option value="4435" >Desire 530</option><option value="4436" >Desire 610</option><option value="4438" >Desire 620</option><option value="4439" >Desire 626</option><option value="4440" >Desire 816</option><option value="4441" >Desire 820</option><option value="4442" >Desire 825</option><option value="4443" >Diamond Plus</option><option value="4444" >Diamond S</option><option value="4445" >Dive 70</option><option value="4446" >Dive 71</option><option value="4447" >Dive 72</option><option value="5124" >Ecouteurs / Casques sans fils</option><option value="4451" >Fever 4G</option><option value="4452" >Fever Special Edition</option><option value="5197" >Find X</option><option value="4454" >Fizz</option><option value="4455" >Fova</option><option value="4456" >Freddy</option><option value="4457" >G Pro Lite</option><option value="4458" >G2</option><option value="4459" >G2 Mini</option><option value="4460" >G3</option><option value="4461" >G3S</option><option value="4462" >G4</option><option value="4463" >G4 Pro</option><option value="4464" >G4 Stylus</option><option value="4465" >G4C</option><option value="4466" >G4S</option><option value="4468" >G5</option><option value="5004" >Galaxy A10</option><option value="5175" >Galaxy A10e</option><option value="4938" >Galaxy A20 / A30</option><option value="5005" >Galaxy A20e</option><option value="4469" >Galaxy A3 (2015)</option><option value="4470" >Galaxy A3 (2016)</option><option value="4471" >Galaxy A3 2017</option><option value="4939" >Galaxy A40</option><option value="4472" >Galaxy A5 (2015)</option><option value="4473" >Galaxy A5 (2016)</option><option value="4474" >Galaxy A5 2017</option><option value="4940" >Galaxy A50</option><option value="4475" >Galaxy A6 2018</option><option value="4476" >Galaxy A6 Plus 2018</option><option value="5040" >Galaxy A60</option><option value="4477" >Galaxy A7</option><option value="4478" >Galaxy A7 (2016)</option><option value="4480" >Galaxy A7 2018</option><option value="4941" >Galaxy A70</option><option value="4481" >Galaxy A8 2016</option><option value="4482" >Galaxy A8 2018</option><option value="4483" >Galaxy A8 Plus 2018</option><option value="4942" >Galaxy A80 / A90</option><option value="4484" >Galaxy A9 2018</option><option value="4485" >Galaxy Ace</option><option value="4486" >Galaxy Ace 2</option><option value="4487" >Galaxy Ace 4</option><option value="4488" >Galaxy Alpha</option><option value="4489" >Galaxy Core</option><option value="4490" >Galaxy Core 2</option><option value="4491" >Galaxy Core 4G</option><option value="4492" >Galaxy Core Plus</option><option value="4493" >Galaxy Core Prime</option><option value="4494" >Galaxy E5</option><option value="4495" >Galaxy E7</option><option value="4496" >Galaxy Express 2</option><option value="4497" >Galaxy Fame / Fame Lite</option><option value="4498" >Galaxy Grand / Grand Plus</option><option value="4499" >Galaxy Grand 2</option><option value="4500" >Galaxy Grand Prime / Grand Prime VE</option><option value="4501" >Galaxy J1</option><option value="4502" >Galaxy J1 (2016)</option><option value="4503" >Galaxy J2 Pro 2018</option><option value="4504" >Galaxy J3 (2016)</option><option value="4505" >Galaxy J3 (2017)</option><option value="4506" >Galaxy J4 2018</option><option value="4507" >Galaxy J4 Plus 2018</option><option value="4508" >Galaxy J5 (2015)</option><option value="4509" >Galaxy J5 (2016)</option><option value="4510" >Galaxy J5 (2017)</option><option value="4511" >Galaxy J5 Prime</option><option value="4512" >Galaxy J6 2018</option><option value="4513" >Galaxy J6 Plus 2018</option><option value="4514" >Galaxy J7</option><option value="4515" >Galaxy J7 (2016)</option><option value="4516" >Galaxy J7 (2017)</option><option value="4517" >Galaxy J7 Prime</option><option value="4518" >Galaxy J8 2018</option><option value="5006" >Galaxy M10</option><option value="5007" >Galaxy M20</option><option value="5030" >Galaxy Note 10</option><option value="5031" >Galaxy Note 10 Plus</option><option value="4519" >Galaxy Note 3</option><option value="4520" >Galaxy Note 3 Neo / Lite</option><option value="4521" >Galaxy Note 4</option><option value="4522" >Galaxy Note 5</option><option value="4523" >Galaxy Note 8</option><option value="4524" >Galaxy Note 9</option><option value="4525" >Galaxy Note Edge</option><option value="4526" >Galaxy S i9000</option><option value="4527" >Galaxy S10</option><option value="4528" >Galaxy S10 Plus</option><option value="4529" >Galaxy S10e</option><option value="4530" >Galaxy S3</option><option value="4531" >Galaxy S3 Mini</option><option value="4532" >Galaxy S4</option><option value="4533" >Galaxy S4 Mini</option><option value="4534" >Galaxy S5</option><option value="4535" >Galaxy S5 Mini</option><option value="4536" >Galaxy S6</option><option value="4537" >Galaxy S6 Edge</option><option value="4538" >Galaxy S6 Edge +</option><option value="4539" >Galaxy S7</option><option value="4540" >Galaxy S7 Edge</option><option value="4541" >Galaxy S8</option><option value="4542" >Galaxy S8 Plus</option><option value="4543" >Galaxy S9</option><option value="4544" >Galaxy S9 Plus</option><option value="4545" >Galaxy Star 2 Plus</option><option value="4546" >Galaxy Tab 2 7&quot; GT-P3100</option><option value="4547" >Galaxy Tab 3 10.1&quot; P5200</option><option value="4548" >Galaxy Tab 3 7&quot; P3200</option><option value="4549" >Galaxy Tab 3 8&quot; SM-T310</option><option value="4550" >Galaxy Tab 4 10.1&quot; SM-T530</option><option value="4551" >Galaxy Tab 4 8&quot; SM-T330</option><option value="4552" >Galaxy Tab 4.7&quot; SM-T230</option><option value="5186" >Galaxy Tab A 10.1 T510</option><option value="5238" >Galaxy Tab A 2018 T590</option><option value="4553" >Galaxy Tab Pro 10.1&quot; SM-T520</option><option value="4554" >Galaxy Tab Pro 8.4&quot; SM-T320</option><option value="4555" >Galaxy Tab S 10.5&quot; SM-T800</option><option value="4556" >Galaxy Tab S 8.4&quot; SM-T700</option><option value="5239" >Galaxy Tab S2 T710</option><option value="5187" >Galaxy Tab S5e T720</option><option value="5240" >Galaxy Tab S6 T860</option><option value="4557" >Galaxy Trend / Trend Plus</option><option value="4558" >Galaxy Trend 2 / Tend 2 Lite</option><option value="4559" >Galaxy Trend Lite</option><option value="4560" >Galaxy Xcover 3</option><option value="4561" >Galaxy young</option><option value="4562" >Galaxy Young 2</option><option value="4563" >Getaway</option><option value="4564" >Goa</option><option value="4565" >Google Nexus 5</option><option value="4566" >Google Nexus 5X</option><option value="4567" >Google Nexus 6</option><option value="4568" >Google Nexus 6P</option><option value="4569" >Harry</option><option value="4570" >Harry 2</option><option value="4571" >Highway</option><option value="4572" >Highway Pure</option><option value="4573" >Highway Signs</option><option value="4574" >Highway Star 4G</option><option value="4575" >Honor 10</option><option value="4576" >Honor 10 Lite</option><option value="4966" >Honor 20</option><option value="5107" >Honor 20 Lite</option><option value="5041" >Honor 20 Pro</option><option value="4577" >Honor 4X</option><option value="4578" >Honor 5C</option><option value="4579" >Honor 5X</option><option value="4580" >Honor 6 Plus</option><option value="4581" >Honor 6X</option><option value="4582" >Honor 7</option><option value="4583" >Honor 7A</option><option value="4584" >Honor 7C</option><option value="4585" >Honor 7S</option><option value="4586" >Honor 7X</option><option value="4587" >Honor 8</option><option value="4588" >Honor 8X</option><option value="4589" >Honor 9</option><option value="4590" >Honor 9 Lite</option><option value="4591" >Honor Play</option><option value="4592" >Honor View 10</option><option value="4593" >Honor View 20</option><option value="4594" >Iggy</option><option value="4595" >iPad</option><option value="4596" >iPad 2 / 3 / 4</option><option value="5180" >iPad 2017</option><option value="5241" >iPad 2019</option><option value="4597" >iPad Air</option><option value="4598" >iPad Air 2</option><option value="4599" >iPad Mini</option><option value="5181" >iPad Mini 4</option><option value="5188" >iPad Mini 5</option><option value="5189" >iPad Pro 11&#039;&#039;</option><option value="5190" >iPad Pro 12.9&#039;&#039;</option><option value="5182" >iPad Pro 9.7&quot;</option><option value="5242" >iPad Pro 9.7&#039;&#039;</option><option value="5088" >iPhone 11</option><option value="5089" >iPhone 11 Pro</option><option value="5090" >iPhone 11 Pro Max</option><option value="4600" >iPhone 4 / 4s</option><option value="4601" >iPhone 5 / 5S</option><option value="4602" >iPhone 5c</option><option value="4603" >iPhone 6 / 6s</option><option value="4604" >iPhone 6 plus / 6s plus</option><option value="4605" >iPhone 7</option><option value="4606" >iPhone 7 Plus</option><option value="4607" >iPhone 8</option><option value="4608" >iPhone 8 Plus</option><option value="4609" >iPhone SE</option><option value="4610" >iPhone X / XS</option><option value="4611" >iPhone XR</option><option value="4612" >iPhone XS Max</option><option value="4613" >iPod Touch 5 / 6</option><option value="4614" >Jerry</option><option value="4615" >Jerry 3</option><option value="4616" >Jimmy</option><option value="4617" >K10</option><option value="4618" >K4</option><option value="4619" >Kite</option><option value="4620" >L Fino</option><option value="4621" >L40</option><option value="4622" >L70</option><option value="4623" >L80</option><option value="4624" >L90</option><option value="4625" >Lenny</option><option value="4626" >Lenny 2</option><option value="4627" >Lenny 3</option><option value="4628" >Lenny 4</option><option value="4629" >Lenny 4 Plus</option><option value="4630" >Lenny 5</option><option value="4631" >Leon 4G</option><option value="4632" >LG Q8</option><option value="4633" >Liquid Jade</option><option value="4634" >Liquid Jade S</option><option value="4635" >Liquid Z200</option><option value="4636" >Liquid Z220</option><option value="4637" >Liquid Z330</option><option value="4638" >Liquid Z410</option><option value="4639" >Liquid Z5</option><option value="4640" >Liquid Z500</option><option value="4641" >Liquid Z520</option><option value="4642" >Liquid Z530</option><option value="4643" >Liquid Z630</option><option value="4644" >Lumia 1520</option><option value="4645" >Lumia 435</option><option value="4646" >Lumia 520</option><option value="4647" >Lumia 530</option><option value="4648" >Lumia 532</option><option value="4649" >Lumia 535</option><option value="4650" >Lumia 550</option><option value="4651" >Lumia 630 / 635</option><option value="4652" >Lumia 640</option><option value="4653" >Lumia 650</option><option value="4654" >Lumia 730 / 735</option><option value="4655" >Lumia 830</option><option value="4656" >Lumia 930</option><option value="4657" >Lumia 950</option><option value="4658" >Lumia 950 XL</option><option value="4659" >Mate 10</option><option value="4660" >Mate 10 Lite</option><option value="4661" >Mate 10 Pro</option><option value="4662" >Mate 20</option><option value="4663" >Mate 20 Lite</option><option value="4664" >Mate 20 Pro</option><option value="4665" >Mate 20 X</option><option value="5160" >Mate 30</option><option value="5161" >Mate 30 Lite</option><option value="5162" >Mate 30 Pro</option><option value="4666" >Mate 7</option><option value="4667" >Mate 8</option><option value="4668" >Mate 9</option><option value="4669" >Mate 9 Lite</option><option value="4670" >Mate S</option><option value="5243" >Media Pad M5 8.4&#039;&#039;</option><option value="4671" >Mi 6X</option><option value="4672" >Mi 7 / Mi 8</option><option value="4673" >Mi 8 Lite</option><option value="4674" >Mi 8 Pro</option><option value="4675" >Mi 9 / Mi 9 Pro</option><option value="5198" >Mi 9 SE</option><option value="5150" >Mi 9T</option><option value="4676" >Mi A2</option><option value="4677" >Mi A2 Lite</option><option value="4678" >Mi Mix 2</option><option value="4679" >Mi Mix 2S</option><option value="4680" >Mi Mix 3</option><option value="5151" >Mi Note 10</option><option value="4681" >MI6</option><option value="4682" >Moto G 2&egrave;me G&eacute;n&eacute;ration</option><option value="4683" >Moto G 3&egrave;me G&eacute;n&eacute;ration</option><option value="4684" >Moto G6 Plus</option><option value="4685" >Moto X Play</option><option value="4686" >Moto X4</option><option value="4687" >Nexus 6P</option><option value="4688" >Nokia 3</option><option value="4689" >Nokia 6 2018</option><option value="4690" >Nokia 8</option><option value="4691" >Nova</option><option value="4692" >Nova 2</option><option value="4693" >Nova 3</option><option value="4694" >Nova 4</option><option value="4695" >Nura 2</option><option value="4696" >One</option><option value="4697" >One A9</option><option value="4698" >One M9</option><option value="4699" >One Max T6</option><option value="4700" >One Mini</option><option value="4701" >One Mini 2</option><option value="4702" >One Touch Go Play</option><option value="4703" >One Touch Idol 2</option><option value="4704" >One Touch Idol 3 4.7&quot;</option><option value="4705" >One Touch Idol 3 5.5&quot;</option><option value="4706" >One Touch Idol 4</option><option value="4707" >One Touch Idol Alpha</option><option value="4708" >One Touch Idol Mini</option><option value="4709" >One Touch Pixi 3 4&quot;</option><option value="4710" >One Touch Pixi 3 4.5&quot;</option><option value="4711" >One Touch Pixi 4 4&quot;</option><option value="4712" >One Touch Pixi 4 5&quot;</option><option value="4713" >One Touch Pop 2 4.5&quot;</option><option value="4714" >One Touch Pop 3 5&quot;</option><option value="4715" >One Touch Pop 3 5.5&quot;</option><option value="4716" >One Touch Pop C3</option><option value="4717" >One Touch Pop C5</option><option value="4718" >One Touch Pop C7</option><option value="4719" >One Touch Pop C9</option><option value="4720" >One Touch Pop D5</option><option value="4721" >One Touch Pop S7</option><option value="4722" >One Touch Pop S9</option><option value="4723" >One Touch Pop Star</option><option value="4724" >One Touch Pop Up</option><option value="4725" >One Touch T&#039;Pop</option><option value="4726" >One Touch X&#039;Pop</option><option value="4727" >OnePlus 5</option><option value="4728" >OnePlus 5T</option><option value="4729" >OnePlus 6</option><option value="4730" >OnePlus 6T</option><option value="4731" >Optimus F60</option><option value="4732" >Optimus F70</option><option value="4733" >Optimus G</option><option value="4734" >Optimus L1 II</option><option value="4735" >Optimus L3</option><option value="4736" >Optimus L3 II</option><option value="4737" >Optimus L4 II</option><option value="4738" >Optimus L5</option><option value="4739" >Optimus L5 II</option><option value="4740" >Optimus L7</option><option value="4741" >Optimus L7 II</option><option value="4742" >Optimus L9</option><option value="4743" >Ozzy</option><option value="4744" >P Smart</option><option value="4745" >P Smart 2019</option><option value="4746" >P Smart Plus</option><option value="4747" >P Smart Plus 2019</option><option value="5066" >P Smart Z</option><option value="4748" >P10</option><option value="4749" >P10 Lite</option><option value="4750" >P10 Plus</option><option value="4751" >P20</option><option value="4752" >P20 Lite</option><option value="4753" >P20 Pro</option><option value="4754" >P30</option><option value="5042" >P30 Lite</option><option value="4755" >P30 Pro</option><option value="4756" >P7</option><option value="4757" >P8</option><option value="4758" >P8 Lite</option><option value="4759" >P8 Lite 2017</option><option value="4760" >P8 Max</option><option value="4761" >P9</option><option value="4762" >P9 Lite</option><option value="4763" >P9 Lite Mini</option><option value="4764" >Pulp 4G</option><option value="4765" >Pulp Fab 4G</option><option value="4766" >Rainbow</option><option value="4767" >Rainbow Jam</option><option value="4768" >Rainbow Jam 4G</option><option value="4769" >Rainbow Lite</option><option value="4770" >Rainbow Up 4G</option><option value="4771" >Redmi 5 Plus</option><option value="4772" >Redmi 6</option><option value="4773" >Redmi 6 Pro</option><option value="4774" >Redmi 6A</option><option value="5135" >Redmi 7</option><option value="5199" >Redmi 8 / 8A</option><option value="4775" >Redmi Note 5 / Note 5 Pro</option><option value="4776" >Redmi Note 6 / Note 6 Pro</option><option value="4967" >Redmi Note 7 / Note 7 Pro</option><option value="5136" >Redmi Note 8</option><option value="5233" >Redmi Note 8 Pro</option><option value="5137" >Redmi Note 8T</option><option value="5200" >Reno</option><option value="5201" >Reno 2</option><option value="5202" >Reno 2Z</option><option value="4777" >Ridge 4G</option><option value="4778" >Ridge Fab 4G</option><option value="4779" >Rise 30</option><option value="4780" >Rise 31</option><option value="4781" >Rise 51</option><option value="4782" >Rise 52</option><option value="4783" >Rise 54</option><option value="4784" >Robby</option><option value="4785" >Roya</option><option value="5203" >RX17 Pro</option><option value="4788" >Selfy 4G</option><option value="4789" >Slide</option><option value="4790" >Spirit 4G</option><option value="4791" >Stairway</option><option value="4792" >Sublim</option><option value="4793" >Sunny</option><option value="4794" >Sunny 2</option><option value="4795" >Sunny 2 Plus</option><option value="4796" >Sunny 3</option><option value="4797" >Sunset</option><option value="4798" >Sunset 2</option><option value="4799" >Tommy</option><option value="4800" >Tommy 2</option><option value="4801" >Tommy 2 Plus</option><option value="4802" >Tommy 3</option><option value="4803" >U Feel</option><option value="4804" >U Feel Lite</option><option value="4805" >U Feel Prime</option><option value="4806" >U Pulse</option><option value="4807" >U Pulse Lite</option><option value="4808" >U5 4G</option><option value="4809" >U883</option><option value="4810" >V10</option><option value="4811" >V30</option><option value="4812" >View</option><option value="4813" >View 2</option><option value="4814" >View 2 Pro</option><option value="5108" >View 3</option><option value="4816" >View Lite</option><option value="4815" >View Lite</option><option value="4817" >View Prime</option><option value="4818" >View XL</option><option value="4819" >Wax</option><option value="4820" >Wim Lite</option><option value="4821" >X / X+</option><option value="4822" >XL</option><option value="4823" >Xperia 10</option><option value="5067" >Xperia 10 Plus</option><option value="4824" >Xperia C3</option><option value="4825" >Xperia C4</option><option value="4826" >Xperia C5 Ultra Dual</option><option value="4827" >Xperia E</option><option value="4828" >Xperia E2 / E3</option><option value="4829" >Xperia E4</option><option value="4830" >Xperia E4g</option><option value="4831" >Xperia E5</option><option value="4832" >Xperia L</option><option value="4833" >Xperia L1</option><option value="4834" >Xperia L2</option><option value="4835" >Xperia M2</option><option value="4836" >Xperia M4</option><option value="4837" >Xperia M4 Aqua</option><option value="4838" >Xperia M5</option><option value="4839" >Xperia P</option><option value="4840" >Xperia SP</option><option value="4841" >Xperia T</option><option value="4842" >Xperia T3</option><option value="4843" >Xperia Tipo</option><option value="4844" >Xperia U</option><option value="4845" >Xperia V</option><option value="4846" >Xperia X</option><option value="4847" >Xperia X Compact</option><option value="4848" >Xperia XA</option><option value="4849" >Xperia XA Ultra</option><option value="4850" >Xperia XA1</option><option value="4851" >Xperia XA1 Plus</option><option value="4852" >Xperia XA1 Ultra</option><option value="4853" >Xperia XA2</option><option value="4854" >Xperia XA2 Ultra</option><option value="5068" >Xperia XA3</option><option value="5069" >Xperia XA3 Ultra</option><option value="4855" >Xperia XZ</option><option value="4856" >Xperia XZ Premium</option><option value="4857" >Xperia XZ1</option><option value="4858" >Xperia XZ1 Compact</option><option value="4859" >Xperia XZ2</option><option value="4860" >Xperia XZ2 Compact</option><option value="4861" >Xperia XZ3</option><option value="4862" >Xperia Z</option><option value="4863" >Xperia Z1</option><option value="4864" >Xperia Z1 Compact / Z2 Compact</option><option value="4865" >Xperia Z2</option><option value="4866" >Xperia Z3</option><option value="4867" >Xperia Z3 Compact</option><option value="4868" >Xperia Z4</option><option value="4869" >Xperia Z4 Compact</option><option value="4870" >Xperia Z5</option><option value="4871" >Xperia Z5 Compact</option><option value="4872" >Xperia Z5 Premium</option><option value="4873" >Xperia Z6</option><option value="4874" >Y3 / Y360</option><option value="4875" >Y3 II</option><option value="4876" >Y5</option><option value="4877" >Y5 2017</option><option value="4878" >Y5 2018</option><option value="5043" >Y5 2019</option><option value="4879" >Y5 II</option><option value="5125" >Y50</option><option value="4880" >Y6 2017</option><option value="4881" >Y6 2018</option><option value="4882" >Y6 2019</option><option value="4883" >Y6 Pro 2017</option><option value="5109" >Y60</option><option value="4884" >Y7 2017</option><option value="4885" >Y7 2018</option><option value="4886" >Y7 2019</option><option value="5126" >Y80</option><option value="4887" >Y9 2018</option><option value="4888" >Y9 2019</option><option value="4889" >ZenFone 2 (ZE551ML)</option><option value="4890" >Zenfone 2 Laser (ZE500KL)</option><option value="4891" >Zenfone 3 Laser ZC551KL</option><option value="4892" >Zenfone 3 Max ZC520TL</option><option value="4893" >Zenfone 3 Max ZC553KL</option><option value="4894" >Zenfone 3 ZE520KL</option><option value="4895" >Zenfone 4 max ZC520KL</option><option value="4896" >Zenfone 4 max ZC554KL</option><option value="4897" >ZenFone 4 Selfie Pro (ZD552KL)</option><option value="4898" >Zenfone 4 ZE554KL</option><option value="4899" >Zenfone 5 Lite ZC600KL</option><option value="4900" >Zenfone 5 ZE620KL / Zenfone 5Z ZS620KL</option><option value="4901" >Zenfone Go ZB500KL</option><option value="4902" >Zenfone Go ZB552KL</option><option value="4903" >Zenfone Live ZB501KL</option><option value="4968" >Zenfone Max M1 ZB555KL</option><option value="4969" >Zenfone Max Plus M1 ZB570TL</option><option value="4970" >Zenfone Max Pro M1 ZB602KL</option><option value="4904" >Zenfone Selfie (ZD551KL)</option><option value="4905" >Zenfone V V520KL</option> </select></div></div></div><div class="clear"></div></div></div><div id="PM_ASCriterionsGroup_3_5" class="PM_ASCriterionsGroup"><div id="PM_ASCriterionsOutput_3_5" class="PM_ASCriterionsOutput"><div id="PM_ASCriterions_3_5" class="PM_ASCriterions"><div class="PM_ASCriterionsGroupOuter"><div class="PM_ASCriterionStepEnable"> <select data-id-criterion-group="5" name="as4c[5][]" id="PM_ASCriterionGroupSelect_3_5" class="PM_ASCriterionGroupSelect"><option value="">TYPE</option><option value="4937" >C&acirc;bles / Chargeurs</option><option value="2341" >Coque antichoc</option><option value="2857" >Coque int&eacute;grale 360</option><option value="4936" >Coque personnalis&eacute;e</option><option value="1619" >Coque rigide</option><option value="2224" >Coque silicone</option><option value="5122" >Ecouteurs</option><option value="1680" >Etui &agrave; Clapet</option><option value="1684" >Etui Folio</option><option value="2606" >Etui T&eacute;l&eacute;phone</option><option value="1687" >Film verre tremp&eacute;</option><option value="1689" >Housse Tablette</option> </select></div></div></div><div class="clear"></div></div></div> <input type="hidden" name="old_selected_criterion" value="YTowOnt9" /> <input type="hidden" name="id_search" value="3" /> <input type="hidden" name="hookName" value="home" /> <input type="hidden" name="orderby" disabled="disabled" /> <input type="hidden" name="orderway" disabled="disabled" /> <input type="hidden" name="n" disabled="disabled" /><div class="submitAsearch-container"> <input type="submit" value="C'est parti" name="submitAsearch" class="button PM_ASSubmitSearch" /> <img src="https://www.1001coques.fr/themes/1001coques/img/exclamation.png" alt=""></div> <a href="javascript:void(0)" class="PM_ASResetSearch">Tout supprimer</a> <script type="text/javascript">if(typeof(ASParams[3]) == 'undefined') {
+			ASParams[3] = {
+				'keep_category_information' 	: 0,
+				'search_results_selector'		: '#center_column',
+				'insert_in_center_column'		: '0',
+				'seo_criterion_groups'			: '',
+				'as4_productFilterListData'		: '',
+				'as4_productFilterListSource'	: '',
+				'scrollTopActive'				: true			};
+		}
+						
+			initSearchBlock(3,2,0,1);</script> </form></div></div></div><div id="as_home_content_results"></div><div id="as_custom_content_results"></div></div></div></div></div><div class="columns-container"><div id="columns" class="container"><div class="fw-pseudo-wrapper"></div><div class="row content-inner"><div id="center_column" class="center_column col-xs-12 col-sm-12 "><div class="clearfix"><div id="container-homeimageblock" style="margin-left: -5px"><ul id="homeimageblock" class="masonry"><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:403px; height: 374px"> <a href="18-personnalisez-votre-coque-telephone" title="Personnalisez votre coque de téléphone" class="animate"> <img src="/img/home_image_block/1.jpg" alt="Personnalisez votre coque de téléphone" width="403" height="374" style="display: block;"/> </a></li><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:403px; height: 374px"> <a href="15-housse-etui-telephone" title="Les étuis" class="animate"> <img src="/img/home_image_block/2.jpg" alt="Les étuis" width="403" height="374" style="display: block;"/> </a></li><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:403px; height: 374px"> <a href="14-coque-de-telephone" title="Les coques silicone" class="animate"> <img src="/img/home_image_block/3.jpg" alt="Les coques silicone" width="403" height="374" style="display: block;"/> </a></li><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:344px; height: 560px"> <a href="3589-coque-maillot-de-foot" title="Coques maillots de foot" class="animate"> <img src="/img/home_image_block/4.jpg" alt="Coques maillots de foot" width="344" height="560" style="display: block;"/> </a></li><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:429px; height: 274px"> <a href="420-coque-telephone-design-artistes" title="Design Artistes" class="animate"> <img src="/img/home_image_block/5.jpg" alt="Design Artistes" width="429" height="274" style="display: block;"/> </a></li><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:437px; height: 380px"> <a href="422-film-verre-trempe-protecteur-ecran" title="Films en Verre trempé protection écran" class="animate"> <img src="/img/home_image_block/6.jpg" alt="Films en Verre trempé protection écran" width="437" height="380" style="display: block;"/> </a></li><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:429px; height: 275px"> <a href="423-accessoires-telephone" title="Accessoires" class="animate"> <img src="/img/home_image_block/7.jpg" alt="Accessoires" width="429" height="275" style="display: block;"/> </a></li><li class="item" style="margin-left: 10px; margin-bottom: 10px; width:437px; height: 168px"> <a href="/content/10-espace-pro-grossiste-accessoire-telephone" title="Les pros" class="animate"> <img src="/img/home_image_block/8.jpg" alt="Les pros" width="437" height="168" style="display: block;"/> </a></li></ul> <script type="text/javascript">var margin_animation = 5;</script> </div><div id="infosblock-wrapper"><div class="infosblock-container"> <img src="https://www.1001coques.fr/modules/infosblock/images/196fee07354ffa82ff4812be6c4d8d41d7a57cea_presentation.jpg" alt="Présentation 1001coques"><div class="infosblock-description"><div class="infosblock-gap"><h1 style="text-align:center;">1001 coques</h1><p>• Nous mettons un point d’honneur à permettre à tous les smartphones de trouver une protection adaptée, et à vous tous de trouver le style qu’il vous plait : + de&nbsp;<strong>70 000&nbsp;articles</strong>&nbsp;(coques, étuis, housses, films protection, accessoires...) pour plus de&nbsp;<strong>300 modèles de téléphones</strong>&nbsp;sont là pour équiper votre&nbsp;<strong>smartphone</strong>&nbsp;et votre&nbsp;<strong>tablette</strong>.</p><p><span>• Nos coques sont imprimées dans nos locaux&nbsp;et expédiées de France, dans le Vaucluse, dans un délai de 48 heures.</span></p><p><span>• La livraison est offerte et suivie, pour que votre commande arrive jusque chez vous en toute sécurité.</span></p><p><span>• Si vous n’êtes pas satisfait, vous avez&nbsp;<strong>14 jours</strong>&nbsp;pour nous retourner votre article.</span></p><p><span>• Des&nbsp;<strong>nouveautés</strong>&nbsp;tous les mois pour des articles adaptés aux derniers modèles de smartphone et aux dernières tendances.</span></p><p><span>• Avec une qualité à&nbsp;<strong>petit prix</strong>, 1001coques est le meilleur rapport qualité prix du web.</span></p><p><span>• Nous vous proposons une&nbsp;<strong>personnalisation</strong>&nbsp;pour tous les modèles de smartphone.</span></p><p><span>• Une question, vous pouvez nous contacter facilement, nous répondons rapidement sur&nbsp;<a href="https://www.facebook.com/1001coques" target="_blank"><span>Facebook</span></a>,&nbsp;par mail (contact@1001coques.fr) ou en nous appelant au&nbsp;09 54 37 44 88 !</span></p></div> <a href="/content/4-a-propos" title="Présentation 1001coques" class="infosblock-link">En savoir +</a></div></div></div><div class="clearfix"></div></div></div></div></div></div><div class="footer-container "><div class="footer-container-inner1"> <footer id="footer1" class="container"><div class="row"><div id="reassurance-wrapper"><ul id="reassurance" class="animated"><li class="wrapper col-xs-6 col-md-3"><div class="reassurance-container reassurance0"> <img src="https://www.1001coques.fr/modules/reassuranceblock/images/71ea0994a565d3d3af9aff8bd5bb878feeeba80f_rea_livraison.png" alt=""><div class="reassurance-description"><p>Livraison</p><p>offerte en 48h</p><p>et suivie</p></div></div></li><li class="wrapper col-xs-6 col-md-3"><div class="reassurance-container reassurance1"> <img src="https://www.1001coques.fr/modules/reassuranceblock/images/37ba264429c2d33b781b6d8a0b4815807947394f_rea_paiement.png" alt=""><div class="reassurance-description"><p>Paiement</p><p>sécurisé</p></div></div></li><li class="wrapper col-xs-6 col-md-3"><div class="reassurance-container reassurance2"> <img src="https://www.1001coques.fr/modules/reassuranceblock/images/2365fafdda5547f84312249a0eb16ea7a9b804e8_rea_francaise.png" alt=""><div class="reassurance-description"><p>Entreprise</p><p>française</p></div></div></li><li class="wrapper col-xs-6 col-md-3"><div class="reassurance-container reassurance3"> <img src="https://www.1001coques.fr/modules/reassuranceblock/images/7dc49722c3511167d2961d3ae47ab4f6afdeca20_rea_assistance.png" alt=""><div class="reassurance-description"><p>Assistance</p><p>téléphonique</p><p>09 54 37 44 88</p></div></div></li></ul></div><div class="clearfix"></div><section id="footer_html_content" class="footer-block col-xs-12"><div><p>Paiements sécurisés acceptés</p><div class="clearfix"> <article class="rte"><p><img src="/img/cms/paiement_visa.png" alt="" width="72" height="34" /><img src="/img/cms/paiement_mastercard.png" alt="" width="72" height="34" /><img src="/img/cms/paiement_paypal.png" alt="" width="72" height="34" /><img src="/img/cms/paiement_virement.png" alt="" width="72" height="34" /><img src="/img/cms/paiement_cheque.png" alt="" width="72" height="34" /></p></article></div></div> </section></div> </footer></div><div class="footer-container-inner"> <footer id="footer" class="container"><div class="row"><section id="block_contact_infos" class="footer-block col-xs-12 col-sm-3"><div><div id="footer_logo"> <a href="https://www.1001coques.fr/" title="1001coques"> <img class="logo img-responsive replace-2xlogo" src="https://www.1001coques.fr/img/1001coques-logo-1559557191.jpg" width="126" height="73" alt="1001coques" /> </a></div><h4>Nous contacter</h4><ul class="toggle-footer"><li> Route de la Pommeraie<br /> 84210 Althen-des-Paluds</li><li> Appelez-nous:<br> <span>09 54 37 44 88</span></li></ul></div> </section><section class="footer-block col-sm-3 col-xs-12" id="block_various_links_footer"><p class="footer-titre">Informations</p><ul class="toggle-footer bullet"><li class="item"> <a href="https://www.1001coques.fr/nous-contacter" title="Contactez-nous"> Contactez-nous </a></li><li class="item"> <a href="https://www.1001coques.fr/content/4-1001-coques-telephone" title="1001 coques"> 1001 coques </a></li><li class="item"> <a href="https://www.1001coques.fr/content/8-faq-questions" title="FAQ"> FAQ </a></li><li class="item"> <a href="https://www.1001coques.fr/content/2-mentions-legales" title="Mentions légales"> Mentions légales </a></li><li class="item"> <a href="https://www.1001coques.fr/content/11-politique-de-confidentialite" title="Politique de confidentialité"> Politique de confidentialité </a></li><li class="item"> <a href="https://www.1001coques.fr/content/3-cgv" title="Conditions Générales de Vente"> Conditions Générales de Vente </a></li><li> <a href="https://www.1001coques.fr/plan-site" title="Plan du site"> Plan du site </a></li></ul> </section><section class="footer-block col-xs-12 col-sm-3"><p class="footer-titre"><a href="https://www.1001coques.fr/mon-compte" title="Gérer mon compte client" rel="nofollow">Votre compte</a></p><div class="block_content toggle-footer"><ul class="bullet"><li><a href="https://www.1001coques.fr/historique-commandes" title="Mes commandes" rel="nofollow">Mes commandes</a></li><li><a href="https://www.1001coques.fr/suivi-commande" title="Mes retours de marchandise" rel="nofollow">Mes retours de marchandise</a></li><li><a href="https://www.1001coques.fr/avoirs" title="Mes avoirs" rel="nofollow">Mes avoirs</a></li><li><a href="https://www.1001coques.fr/adresses" title="Mes adresses" rel="nofollow">Mes adresses</a></li><li><a href="https://www.1001coques.fr/identite" title="Gérer mes informations personnelles" rel="nofollow">Mes informations personnelles</a></li><li><a href="https://www.1001coques.fr/reduction" title="Mes bons de réduction" rel="nofollow">Mes bons de réduction</a></li></ul></div> </section><section class="footer-block col-sm-3 col-xs-12" id="block_various_links_footeroh"><p class="footer-titre">1001 Coques</p><ul class="toggle-footer bullet"><li class="item"> <a href="https://www.1001coques.fr/content/1-livraison" title="Livraison"> Livraison </a></li><li class="item"> <a href="https://www.1001coques.fr/content/5-paiement-securise" title="Paiement sécurisé"> Paiement sécurisé </a></li><li class="item"> <a href="https://www.1001coques.fr/content/6-aide-modele-smartphone-tablette" title="Aide modele telephone"> Aide modele telephone </a></li><li class="item"> <a href="https://www.1001coques.fr/content/7-bons-d-achat-code-promo" title="Obtenez des bons d&#039;achat et code promo !"> Obtenez des bons d&#039;achat et code promo ! </a></li><li class="item"> <a href="https://www.1001coques.fr/content/9-conditions-retour" title="Conditions Retour"> Conditions Retour </a></li><li class="item"> <a href="https://www.1001coques.fr/content/10-espace-pro-grossiste-accessoire-telephone" title="Espace pro"> Espace pro </a></li></ul> </section><section id="social_block_mod" class="social_block_mod footer-block col-sm-3 col-xs-12"><div><h4>Trouvez-nous sur:</h4><ul class="toggle-footer clearfix"><li class="facebook"><a href="https://www.facebook.com/1001coques" class="transition-300" target="_blank" title="Facebook"></a></li><li class="twitter"><a href="https://twitter.com/1001coques" class="transition-300" target="_blank" title="Twitter"></a></li><li class="youtube"><a href="https://www.youtube.com/channel/UCwT1JJVkZhHlkwssEzgO-Mw" class="transition-300" target="_blank" title="Youtube"></a></li><li class="instagram"><a href="https://www.instagram.com/1001coques/" class="transition-300" target="_blank" title="Instagram"></a></li></ul></div> </section> <script type="text/javascript">ga('send', 'pageview');</script> <meta class="netreviewsWidget" id="netreviewsWidgetNum11664" data-jsurl="//cl.avis-verifies.com/fr/cache/7/3/5/7357ad31-5ee3-7894-c5cf-16893a6cceed/widget4/widget16-11664_script.js"/><script src="//cl.avis-verifies.com/fr/widget4/widget16.min.js"></script><div class="bootstrap"></div><script type="text/javascript">var contact_checkbox = true;</script> <div id="contact_container" class="box gdpr_checkbox_container gdpr_display_content"><p class="checkbox"> <input type="checkbox" name="recording_acceptation" id="recording_acceptation_contact_container" value="1" /> <label for="recording_acceptation_contact_container">J'ai lu les conditions générales sur la protection des données et j'y adhère sans réserve.</label> <a href="https://www.1001coques.fr/content/11-politique-de-confidentialite?content_only=1" class="iframe" rel="nofollow">(Lire les Conditions sur la protection des données)</a></p></div> <script type="text/javascript">var stockalert_window = true;</script> <div id="stockalert_container" class="layer_container"><div class="layer_gdpr"> <input type="hidden" id="stockalert_container_submitForm" name="stockalert_container_submitForm" value="0" /><div class="clearfix"><div class="layer_gdpr_container col-xs-12 col-md-12"> <span class="cross" title="Fermer la fenêtre"></span> <span class="title"> Politique de protection des données </span><div class="layer_gdpr_container_info"><div class="gdpr_content"><p>Acceptez-vous les conditions sur la protection de vos données ?</p></div><div class="button-container"> <span class="continue btn btn-default button exclusive-medium" title="Je ne suis pas d'accord"> <span> <i class="icon-chevron-left left"></i>Je ne suis pas d'accord </span> </span> <button class="submitform btn btn-default button button-medium" title="Je suis d'accord" onclick="javascript:submit_form_stockalert('stockalert_container');" rel="nofollow"> <span> Je suis d'accord<i class="icon-chevron-right right"></i> </span> </button></div></div></div></div></div></div> <script type="text/javascript">var newsletter_window = true;</script> <div id="newsletter_container" class="layer_container"><div class="layer_gdpr"> <input type="hidden" id="newsletter_container_submitForm" name="newsletter_container_submitForm" value="0" /><div class="clearfix"><div class="layer_gdpr_container col-xs-12 col-md-12"> <span class="cross" title="Fermer la fenêtre"></span> <span class="title"> Politique de protection des données </span><div class="layer_gdpr_container_info"><div class="gdpr_content"><p>Acceptez-vous les conditions sur la protection de vos données ?</p></div><div class="button-container"> <span class="continue btn btn-default button exclusive-medium" title="Je ne suis pas d'accord"> <span> <i class="icon-chevron-left left"></i>Je ne suis pas d'accord </span> </span> <button class="submitform btn btn-default button button-medium" title="Je suis d'accord" onclick="javascript:submit_form_newsletter('newsletter_container');" rel="nofollow"> <span> Je suis d'accord<i class="icon-chevron-right right"></i> </span> </button></div></div></div></div></div></div><div class="layer_gdpr_overlay"></div></div> </footer></div><div class="footer_copyrights"> <footer class="container clearfix"><div class="row"><div class="col-sm-12"> Copyright &copy; 1001coques - 2020 | <a href="https://www.tooeasy.fr/creation-prestashop-valence-drome.html" title="Cr&eacute;ation de sites e-commerce Prestashop &agrave; Valence (Dr&ocirc;me)" target="_blank">Cr&eacute;ation TooEasy</a> | Tous droits r&eacute;serv&eacute;s</div></div> </footer></div></div></div><div id="toTop" class="transition-300"></div> <script type="application/ld+json">{
+		  	"@context": "http://schema.org",
+		  	"@type": "WebSite",
+		  	"url": "https://www.1001coques.fr/",
+		  	"potentialAction": {
+		    	"@type": "SearchAction",
+		    	"target": "https://www.1001coques.fr/index.php?controller=search&search_query={search_term_string}",
+		    	"query-input": "required name=search_term_string"
+		  	}
+		}</script>
+</body></html>
